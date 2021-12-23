@@ -19,8 +19,13 @@ de conteúdos consumindo uma fake API em json.
 <h1>Para Rodar:</h1>
 
 <p>Inicia o server JSON</p>
-```yarn server```
+
+``` yarn server ```
+
 <p>Rodar a Aplicação em Ambiente de desenvolvedor na porta localhost:8080</p>
+
 ```yarn dev```
+
 <p>Rodar a Aplicação em Ambiente de produção</p>
+
 ```yarn build```
